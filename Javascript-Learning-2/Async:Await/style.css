@@ -1,0 +1,13 @@
+body {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 300px;
+}
+
+h1 {
+  font-size: 60px;
+  color: red;
+}
